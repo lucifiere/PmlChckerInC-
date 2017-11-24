@@ -50,8 +50,11 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="PmlChecker\CFG.cs" />
     <Compile Include="PmlChecker\SourceCode.cs" />
     <Compile Include="PmlChecker\Surface.cs" />
+    <Compile Include="PmlChecker\TextMeasurer.cs" />
+    <Compile Include="PmlChecker\TreeNode.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">

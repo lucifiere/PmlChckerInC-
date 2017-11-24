@@ -7,3 +7,12 @@ K:\PmlChckerInC#\PmlChecker\PmlChecker\obj\Debug\PmlChecker.csproj.GenerateResou
 K:\PmlChckerInC#\PmlChecker\PmlChecker\obj\Debug\PmlChecker.exe
 K:\PmlChckerInC#\PmlChecker\PmlChecker\obj\Debug\PmlChecker.pdb
 K:\PmlChckerInC#\PmlChecker\PmlChecker\obj\Debug\PmlChecker.MainForm.resources
+H:\LUCKY-COFFEE\PmlChckerInC-\PmlChecker\bin\Debug\PmlChecker.exe.config
+H:\LUCKY-COFFEE\PmlChckerInC-\PmlChecker\bin\Debug\PmlChecker.exe
+H:\LUCKY-COFFEE\PmlChckerInC-\PmlChecker\bin\Debug\PmlChecker.pdb
+H:\LUCKY-COFFEE\PmlChckerInC-\PmlChecker\obj\Debug\PmlChecker.csprojResolveAssemblyReference.cache
+H:\LUCKY-COFFEE\PmlChckerInC-\PmlChecker\obj\Debug\PmlChecker.MainForm.resources
+H:\LUCKY-COFFEE\PmlChckerInC-\PmlChecker\obj\Debug\PmlChecker.Properties.Resources.resources
+H:\LUCKY-COFFEE\PmlChckerInC-\PmlChecker\obj\Debug\PmlChecker.csproj.GenerateResource.Cache
+H:\LUCKY-COFFEE\PmlChckerInC-\PmlChecker\obj\Debug\PmlChecker.exe
+H:\LUCKY-COFFEE\PmlChckerInC-\PmlChecker\obj\Debug\PmlChecker.pdb
